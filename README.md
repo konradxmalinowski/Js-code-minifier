@@ -17,7 +17,7 @@ This app allows developers to paste JavaScript code and get a compressed, minifi
 -  **TypeScript** — Type safety
 -  **Vite** — Fast dev environment & bundler
 -  **SCSS (Sass)** — Modular styling
-- ✂ **Terser** — JavaScript minification
+-  **Terser** — JavaScript minification
 
 ---
 
