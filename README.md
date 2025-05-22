@@ -13,27 +13,21 @@ This app allows developers to paste JavaScript code and get a compressed, minifi
 
 ## 🧰 Tech Stack
 
-- ⚛️ **React** — Component-based UI
-- 🧠 **TypeScript** — Type safety
-- ⚡ **Vite** — Fast dev environment & bundler
-- 🎨 **SCSS (Sass)** — Modular styling
-- ✂️ **Terser** — JavaScript minification
-
----
-
-## 🖼️ Screenshot
-
-![Screenshot](https://js-code-minifier.ct8.pl/assets/screenshot.png) <!-- Update if needed -->
+-  **React** — Component-based UI
+-  **TypeScript** — Type safety
+-  **Vite** — Fast dev environment & bundler
+-  **SCSS (Sass)** — Modular styling
+- ✂ **Terser** — JavaScript minification
 
 ---
 
 ## 🚀 Features
 
-- ✨ Real-time JS code minification
-- 💾 Copy & download functionality
-- 🧩 Clean and responsive UI
-- 🔒 All code stays local — nothing is sent to a server
-- 🎯 Ideal for production-ready scripts
+-  Real-time JS code minification
+-  Copy & download functionality
+-  Clean and responsive UI
+-  All code stays local — nothing is sent to a server
+-  Ideal for production-ready scripts
 
 ---
 
@@ -99,10 +93,10 @@ js-code-minifier/
 
 ## 📣 Use Cases
 
-* 🔻 Reduce JS file size before deploying
-* 🛡️ Obfuscate code for security
-* 🧪 Test JS output behavior in a minified state
-* 🌐 Improve website load speed and SEO
+*  Reduce JS file size before deploying
+* 🛡 Obfuscate code for security
+*  Test JS output behavior in a minified state
+*  Improve website load speed and SEO
 
 ---
 
