@@ -1,17 +1,16 @@
 # JS Code Minifier
 
-Welcome to **JS Code Minifier** — a fast, lightweight, and open-source web app built with **Vite + React + TypeScript + SCSS** that minifies your JavaScript code instantly 🚀  
-🔗 [Live Demo](https://js-code-minifier.ct8.pl/)
+Welcome to **JS Code Minifier** — a fast, lightweight, and open-source web app built with **Vite + React + TypeScript + SCSS** that minifies your JavaScript code instantly
 
 ---
 
-## 📌 Overview
+## Overview
 
 This app allows developers to paste JavaScript code and get a compressed, minified version with one click. It's privacy-friendly (runs entirely in the browser), easy to use, and optimized for performance.
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 -  **React** — Component-based UI
 -  **TypeScript** — Type safety
@@ -20,7 +19,7 @@ This app allows developers to paste JavaScript code and get a compressed, minifi
 
 ---
 
-## 🚀 Features
+## Features
 
 -  Real-time JS code minification
 -  Copy & download functionality
@@ -30,7 +29,7 @@ This app allows developers to paste JavaScript code and get a compressed, minifi
 
 ---
 
-## 📦 Getting Started
+## Getting Started
 
 Follow these steps to run the project locally:
 
@@ -69,7 +68,7 @@ npm run preview
 
 ---
 
-## 🔧 Project Structure
+## Project Structure
 
 ```
 js-code-minifier/
@@ -90,25 +89,25 @@ js-code-minifier/
 
 ---
 
-## 📣 Use Cases
+## Use Cases
 
 *  Reduce JS file size before deploying
-* 🛡 Obfuscate code for security
+*  Obfuscate code for security
 *  Test JS output behavior in a minified state
 *  Improve website load speed and SEO
 
 ---
 
-## 🙋‍♂️ Author
+##  Author
 
-Made with ❤️ by **Konrad Malinowski**
-🔗 [Portfolio](https://portfolio-website.ct8.pl/)
-🐙 [GitHub](https://github.com/konradxmalinowski)
-📸 [Instagram](https://instagram.com/konradxmalinowski)
+Made with by **Konrad Malinowski**
+- [Portfolio](https://portfolio-website.ct8.pl/)
+- [GitHub](https://github.com/konradxmalinowski) 
+- [Instagram](https://instagram.com/konradxmalinowski)
 
 ---
 
-## 📄 License
+## License
 
 MIT License
 
