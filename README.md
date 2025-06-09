@@ -2,13 +2,13 @@
 
 Welcome to **JS Code Minifier** — a fast, lightweight, and open-source web app built with **Vite + React + TypeScript + SCSS** that minifies your JavaScript code instantly
 
----
+
 
 ## Overview
 
 This app allows developers to paste JavaScript code and get a compressed, minified version with one click. It's privacy-friendly (runs entirely in the browser), easy to use, and optimized for performance.
 
----
+
 
 ## Tech Stack
 
@@ -17,7 +17,7 @@ This app allows developers to paste JavaScript code and get a compressed, minifi
 -  **Vite** — Fast dev environment & bundler
 -  **SCSS (Sass)** — Modular styling
 
----
+
 
 ## Features
 
@@ -27,7 +27,7 @@ This app allows developers to paste JavaScript code and get a compressed, minifi
 -  All code stays local — nothing is sent to a server
 -  Ideal for production-ready scripts
 
----
+
 
 ## Getting Started
 
@@ -66,7 +66,7 @@ To preview the production build:
 npm run preview
 ```
 
----
+
 
 ## Project Structure
 
@@ -87,7 +87,7 @@ js-code-minifier/
 └── README.md               # You're here!
 ```
 
----
+
 
 ## Use Cases
 
@@ -96,7 +96,7 @@ js-code-minifier/
 *  Test JS output behavior in a minified state
 *  Improve website load speed and SEO
 
----
+
 
 ##  Author
 
@@ -105,32 +105,3 @@ Made with by **Konrad Malinowski**
 - [GitHub](https://github.com/konradxmalinowski) 
 - [Instagram](https://instagram.com/konradxmalinowski)
 
----
-
-## License
-
-MIT License
-
-```
-MIT License
-
-Copyright (c) 2025 Konrad Malinowski
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the “Software”), to deal
-in the Software without restriction, including without limitation the rights  
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell  
-copies of the Software, and to permit persons to whom the Software is  
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included  
-in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR  
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,  
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE  
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER  
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING  
-FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER  
-DEALINGS IN THE SOFTWARE.
-```
