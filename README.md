@@ -1,14 +1,11 @@
 # JS Code Minifier
 
+<br>
+
 Welcome to **JS Code Minifier** — a fast, lightweight, and open-source web app built with **Vite + React + TypeScript + SCSS** that minifies your JavaScript code instantly
-
-
-
-## Overview
-
 This app allows developers to paste JavaScript code and get a compressed, minified version with one click. It's privacy-friendly (runs entirely in the browser), easy to use, and optimized for performance.
 
-
+<br>
 
 ## Tech Stack
 
@@ -17,7 +14,7 @@ This app allows developers to paste JavaScript code and get a compressed, minifi
 -  **Vite** — Fast dev environment & bundler
 -  **SCSS (Sass)** — Modular styling
 
-
+<br>
 
 ## Features
 
@@ -26,7 +23,7 @@ This app allows developers to paste JavaScript code and get a compressed, minifi
 -  Clean and responsive UI
 -  All code stays local — nothing is sent to a server
 -  Ideal for production-ready scripts
-
+<br>
 
 
 ## Getting Started
@@ -66,7 +63,7 @@ To preview the production build:
 npm run preview
 ```
 
-
+<br>
 
 ## Project Structure
 
@@ -87,7 +84,7 @@ js-code-minifier/
 └── README.md               # You're here!
 ```
 
-
+<br>
 
 ## Use Cases
 
@@ -96,12 +93,17 @@ js-code-minifier/
 *  Test JS output behavior in a minified state
 *  Improve website load speed and SEO
 
+<br>
 
+## Screenshots
+![image](https://github.com/user-attachments/assets/b6f7a0ec-2e04-44fd-80d0-9ca0aae76b6c)
+
+<br>
 
 ##  Author
 
 Made with by **Konrad Malinowski**
-- [Portfolio](https://portfolio-website.ct8.pl/)
+- [Portfolio](https://konradmalinowski.ct8.pl/)
 - [GitHub](https://github.com/konradxmalinowski) 
 - [Instagram](https://instagram.com/konradxmalinowski)
 
